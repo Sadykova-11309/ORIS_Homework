@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838F36AD-CC1A-4316-BFF0-8C7A60619163}|TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\templateengine.unittests\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838F36AD-CC1A-4316-BFF0-8C7A60619163}|TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj|solutionrelative:templateengine.unittests\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBC42A7-6B1E-42A9-9DC7-2BCF06D2550B}|MyHttpServer\\MyHttpServer.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBC42A7-6B1E-42A9-9DC7-2BCF06D2550B}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D4448F-CAE1-4798-8B8C-17F8DBFB6756}|TemplateEngine\\TemplateEngine.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\templateengine\\customtemplator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D4448F-CAE1-4798-8B8C-17F8DBFB6756}|TemplateEngine\\TemplateEngine.csproj|solutionrelative:templateengine\\customtemplator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D4448F-CAE1-4798-8B8C-17F8DBFB6756}|TemplateEngine\\TemplateEngine.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\templateengine\\templateengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4D4448F-CAE1-4798-8B8C-17F8DBFB6756}|TemplateEngine\\TemplateEngine.csproj|solutionrelative:templateengine\\templateengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\handlers\\endpointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\handlers\\endpointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2C75D4-50EC-4E06-8D4F-03248334356D}|MyHttpServer.UnitTests\\MyHttpServer.UnitTests.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\myhttpserver.unittests\\myhttpserver.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D2C75D4-50EC-4E06-8D4F-03248334356D}|MyHttpServer.UnitTests\\MyHttpServer.UnitTests.csproj|solutionrelative:myhttpserver.unittests\\myhttpserver.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\handlers\\staticfileshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\handlers\\staticfileshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\httpresponse\\htmlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpresponse\\htmlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\httpresponse\\ihttpresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpresponse\\ihttpresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\httpresponse\\jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpresponse\\jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|d:\\projects\\kfu\\11-309\\myhttpserver\\httpserverlibrary\\attributes\\postattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A18BF7-92EF-4CE1-89ED-DAC886CF9427}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\attributes\\postattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\TemplateEngine.UnitTests\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "TemplateEngine.UnitTests\\Models\\Person.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\TemplateEngine.UnitTests\\Models\\Person.cs",
+              "RelativeToolTip": "TemplateEngine.UnitTests\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:22:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateEngine",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj",
+              "RelativeDocumentMoniker": "TemplateEngine\\TemplateEngine.csproj",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj",
+              "RelativeToolTip": "TemplateEngine\\TemplateEngine.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T12:20:19.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyHttpServer.UnitTests",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\MyHttpServer.UnitTests\\MyHttpServer.UnitTests.csproj",
+              "RelativeDocumentMoniker": "MyHttpServer.UnitTests\\MyHttpServer.UnitTests.csproj",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\MyHttpServer.UnitTests\\MyHttpServer.UnitTests.csproj",
+              "RelativeToolTip": "MyHttpServer.UnitTests\\MyHttpServer.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T12:17:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomTemplator.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\TemplateEngine\\CustomTemplator.cs",
+              "RelativeDocumentMoniker": "TemplateEngine\\CustomTemplator.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\TemplateEngine\\CustomTemplator.cs",
+              "RelativeToolTip": "TemplateEngine\\CustomTemplator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:16:39.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\MyHttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Program.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\MyHttpServer\\Program.cs",
+              "RelativeToolTip": "MyHttpServer\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:53:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndpointsHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:52:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Handlers\\Handler.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Handlers\\Handler.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Handlers\\Handler.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Handlers\\Handler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:52:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaticFilesHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:52:12.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HtmlResult.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:52:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHttpResponseResult.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpResponse\\IHttpResponseResult.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpResponse\\IHttpResponseResult.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpResponse\\IHttpResponseResult.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpResponse\\IHttpResponseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:52:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonResult.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:57.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpServer.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpServer.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\HttpServer.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:50:27.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostAttribute.cs",
+              "DocumentMoniker": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Attributes\\PostAttribute.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Attributes\\PostAttribute.cs",
+              "ToolTip": "D:\\Projects\\KFU\\11-309\\MyHttpServer\\HttpServerLibrary\\Attributes\\PostAttribute.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Attributes\\PostAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:40:56.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

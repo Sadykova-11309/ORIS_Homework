@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyHttpServer\\MyHttpServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+        "projectName": "HttpServerLibrary",
+        "projectPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+        "packagesPath": "C:\\Users\\house\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\HttpServerLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\house\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyHttpServer\\MyHttpServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyHttpServer\\MyHttpServer.csproj",
+        "projectName": "MyHttpServer",
+        "projectPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyHttpServer\\MyHttpServer.csproj",
+        "packagesPath": "C:\\Users\\house\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyHttpServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\house\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj": {
+                "projectPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\HttpServerLibrary\\HttpServerLibrary.csproj"
+              },
+              "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyORMLibrary\\MyORMLibrary.csproj": {
+                "projectPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyORMLibrary\\MyORMLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyORMLibrary\\MyORMLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyORMLibrary\\MyORMLibrary.csproj",
+        "projectName": "MyORMLibrary",
+        "projectPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyORMLibrary\\MyORMLibrary.csproj",
+        "packagesPath": "C:\\Users\\house\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\house\\Downloads\\MyHttpServer_Sadykova_Alina\\MyHttpServer\\MyORMLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\house\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
